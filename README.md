@@ -25,5 +25,6 @@
 - 結果によると同一パラメータのResnetより、精度が向上している
 ## 参考
 1. https://arxiv.org/pdf/1611.05431.pdf
+2. https://pystyle.info/pytorch-resnext/
 
 
